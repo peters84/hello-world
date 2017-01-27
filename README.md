@@ -2,4 +2,5 @@
 GitHub Tutorial
 Peters Push
 To get pulled
-about to conflict
+To be conflicted
+about to conflict | resolved
